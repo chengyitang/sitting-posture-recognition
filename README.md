@@ -4,7 +4,7 @@ A real-time sitting posture detection system that helps users maintain good post
 
 ## Demo
 
-![Demo Video](report/SitWell.mp4)
+<video src="report/SitWell.mp4" controls></video>
 
 ## Overview
 
