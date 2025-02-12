@@ -2,9 +2,6 @@
 
 A real-time sitting posture detection system that helps users maintain good posture while sitting. The system uses computer vision to analyze sitting posture and provides audio alerts when poor posture is detected.
 
-## Demo
-
-<video src="report/SitWell.mp4" controls></video>
 
 ## Overview
 
@@ -55,3 +52,7 @@ Three different CNN architectures were evaluated:
 | ResNet50  | 87.78%   | 50      | 2015       |
 
 VGGNet16 achieved the highest accuracy of 97.78% and was selected as the final model for the system.
+
+## Demo
+
+<video src="report/SitWell.mp4" controls></video>
