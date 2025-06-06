@@ -1,4 +1,4 @@
-# Sit, Good boy! - Posture Detection System
+# Sitting Posture Recognition System
 
 A real-time sitting posture detection system that helps users maintain good posture while sitting. The system uses computer vision to analyze sitting posture and provides audio alerts when poor posture is detected.
 
@@ -12,7 +12,7 @@ This system uses MediaPipe Pose and OpenCV to detect and analyze human posture i
 - Real-time posture detection using webcam
 - MediaPipe Pose landmark detection
 - Neural network classification of posture (using AlexNet architecture)
-- Audio alerts for poor posture detection
+- Audio alerts for poor posture recognition
 - Support for multiple deep learning models (AlexNet, VGG16, ResNet50)
 
 ## Technical Stack
@@ -54,5 +54,4 @@ Three different CNN architectures were evaluated:
 VGGNet16 achieved the highest accuracy of 97.78% and was selected as the final model for the system.
 
 ## Demo
-
-<video src="report/SitWell.mp4" controls></video>
+report/SitWell.mp4
